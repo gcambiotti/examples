@@ -2,4 +2,5 @@
 
 here you can find some files
 
-[Other notebook](notebook/ciao.ipynb)
+[ciao](notebook/ciao.ipynb)
+[obspy](notebook/obs.ipynb)
